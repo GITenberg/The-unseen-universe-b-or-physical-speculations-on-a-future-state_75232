@@ -1,0 +1,35 @@
+_repo: The-unseen-universe-b-or-physical-speculations-on-a-future-state_75232
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Stewart, Balfour
+    alias: Shitoka
+    birthdate: 1828
+    deathdate: 1887
+    gutenberg_agent_id: '55074'
+    url: http://www.gutenberg.org/2009/agents/55074
+    wikipedia: https://en.wikipedia.org/wiki/Balfour_Stewart
+  - agent_name: Tait, Peter Guthrie
+    gutenberg_agent_id: '57893'
+    url: http://www.gutenberg.org/2009/agents/57893
+description: ''
+gutenberg_issued: '2025-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75232'
+language: en
+pgterms:marc904: https://archive.org/details/unseenuniverseor00stewrich/page/n5/mode/2up
+pgterms:marc905: 20211201045926stewart
+pgterms:marc906: '1878'
+pgterms:marc907: GB
+production_note: Tim Lindell, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bMacmillan and Co., $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The unseen universe : $b or, physical speculations on a future state'
+url: http://www.gutenberg.org/ebooks/75232
